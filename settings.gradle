@@ -1,4 +1,4 @@
 rootProject.name = 'ecommerce'
 
-include('common')
-include('user')
+include 'common'
+include 'user'
